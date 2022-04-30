@@ -1,2 +1,2 @@
-# museu-nacional
-Página do Museu Nacional utilizando Flexbox
+# Museu Nacional
+Página do Museu Nacional desenvolvida utilizando Flexbox
